@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "737952485895",
+    "firebase_url": "https://howltalk-d8c47-default-rtdb.firebaseio.com",
+    "project_id": "howltalk-d8c47",
+    "storage_bucket": "howltalk-d8c47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737952485895:android:269622ef9d3780005990a2",
+        "android_client_info": {
+          "package_name": "com.example.howltalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737952485895-penki4dggc1kklfv9duf7d72jj28nuhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5SM6wydVJt1FSU4mVDCzo7Awh_Q6utaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737952485895-penki4dggc1kklfv9duf7d72jj28nuhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737952485895:android:a7a1c19890bfe4195990a2",
+        "android_client_info": {
+          "package_name": "com.example.talkroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737952485895-penki4dggc1kklfv9duf7d72jj28nuhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5SM6wydVJt1FSU4mVDCzo7Awh_Q6utaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737952485895-penki4dggc1kklfv9duf7d72jj28nuhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
