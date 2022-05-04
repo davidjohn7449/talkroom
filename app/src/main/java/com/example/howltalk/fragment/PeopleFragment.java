@@ -6,6 +6,7 @@ import android.app.ActivityOptions;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Message;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -58,6 +59,7 @@ public class PeopleFragment extends Fragment {
                     for(DataSnapshot snapshot :dataSnapshot.getChildren()){
 
                         UserModel userModel = snapshot.getValue(UserModel.class);
+
                         if(userModel.uid.equals(myUid)){
                             continue;
                         }
